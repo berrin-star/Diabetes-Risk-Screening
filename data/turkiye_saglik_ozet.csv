@@ -1,0 +1,52 @@
+source,year,indicator,sex,value,measure,age,url
+TUIK 2022,2022,Obesity,Total,20.2,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Obesity,Women,23.6,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Obesity,Men,16.8,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Overweight (pre-obese),Women,30.9,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Overweight (pre-obese),Men,40.4,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Diabetes,Total,11.4,"self-reported, last 12 months",15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,High blood pressure,Total,16.1,"self-reported, last 12 months",15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Daily smoking,Total,28.3,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Daily smoking,Men,41.3,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,Daily smoking,Women,15.5,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,No physical activity,Men,85.3,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2022,2022,No physical activity,Women,92.7,self-reported,15+,https://data.tuik.gov.tr/Bulten/Index?p=Turkiye-Saglik-Arastirmasi-2022-49747
+TUIK 2025,2025,Obesity,Total,21.8,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Obesity,Women,24.8,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Obesity,Men,18.7,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Overweight (pre-obese),Women,32.2,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Overweight (pre-obese),Men,43.1,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Diabetes,Total,11.9,"self-reported, last 12 months",15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,High blood pressure,Total,16.9,"self-reported, last 12 months",15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Daily smoking,Total,30.1,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Daily smoking,Men,42.9,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,Daily smoking,Women,17.5,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,No physical activity,Men,83.5,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+TUIK 2025,2025,No physical activity,Women,89.7,self-reported,15+,https://data.tuik.gov.tr (Turkiye Saglik Arastirmasi 2025)
+WHO STEPS 2017,2017,Insufficient physical activity,Total,43.6,survey,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Insufficient physical activity,Men,33.1,survey,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Insufficient physical activity,Women,53.9,survey,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Overweight (BMI >= 25),Total,64.4,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Overweight (BMI >= 25),Men,62.8,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Overweight (BMI >= 25),Women,66.0,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Obesity,Total,28.8,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Obesity,Men,21.6,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Obesity,Women,35.9,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,High blood pressure,Total,27.7,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,High blood pressure,Men,26.1,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,High blood pressure,Women,29.3,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Raised fasting glucose,Total,11.1,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Raised fasting glucose,Men,10.6,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Raised fasting glucose,Women,11.5,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Diabetes,Total,13.3,measured (HbA1c >= 6.5% or medication),15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Diabetes,Men,12.7,measured (HbA1c >= 6.5% or medication),15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Diabetes,Women,13.8,measured (HbA1c >= 6.5% or medication),15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Impaired fasting glycaemia,Total,7.9,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Impaired fasting glycaemia,Men,8.1,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Impaired fasting glycaemia,Women,7.7,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Daily smoking,Total,29.2,survey,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Daily smoking,Men,40.4,survey,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Daily smoking,Women,18.2,survey,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Raised total cholesterol,Total,24.7,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Raised total cholesterol,Men,20.9,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
+WHO STEPS 2017,2017,Raised total cholesterol,Women,28.5,measured,15+,https://www.who.int/publications/m/item/2017-steps-fact-sheet-turkey
